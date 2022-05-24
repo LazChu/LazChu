@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Future projects with the programing lenguage im learing.
 - 📫 How to reach me ... Lakata@gmail.com 
 - Facebook - https://www.facebook.com/lazar.l.hristov/
-- LinkedIn
+- LinkedIn - https://www.linkedin.com/in/lazarin-hristov-b62663114/
 
 <!---
 LazChu/LazChu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
