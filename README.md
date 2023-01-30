@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LazChu
-- 👀 I’m interested in ... Developing , Photography, Games
-- 🌱 I’m currently learning ... SoftUni Fundamentals with Python
-- 💞️ I’m looking to collaborate on ... Future projects with the programing lenguage im learing.
+- 👀 I’m interested in ... Software Testing, Photography, Games
+- 🌱 I’m currently learning ... SoftUni QA Automation 
+- 💞️ I’m looking to find a job in the IT sphere and my main interest QA.
 - 📫 How to reach me ... Lakata@gmail.com 
 - Facebook - https://www.facebook.com/lazar.l.hristov/
 - LinkedIn - https://www.linkedin.com/in/lazarin-hristov-b62663114/
