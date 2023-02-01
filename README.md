@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LazChu
 - 👀 I’m interested in ... Software Testing, Photography, Games
 - 🌱 I’m currently learning ... SoftUni QA Automation 
-- 💞️ I’m looking to find a job in the IT sphere and my main interest QA.
+- 💞️ I’m looking to find a job in the IT sphere and my main interest is Quality Assurance.
 - 📫 How to reach me ... Lakata@gmail.com 
 - Facebook - https://www.facebook.com/lazar.l.hristov/
 - LinkedIn - https://www.linkedin.com/in/lazarin-hristov-b62663114/
